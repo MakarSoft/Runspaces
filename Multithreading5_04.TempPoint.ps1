@@ -1,9 +1,4 @@
-﻿#===============================================================================
-# Добавляем аргументы в ScriptBlock
-# https://github.com/proxb/Presentations/tree/master/Art_Of_PowerShell_Runspaces
-# https://blogs.technet.microsoft.com/heyscriptingguy/2015/11/26/beginning-use-of-powershell-runspaces-part-1/
-#
-#===============================================================================
+﻿# Добавляем аргументы в ScriptBlock
 
 Clear-Host
 
